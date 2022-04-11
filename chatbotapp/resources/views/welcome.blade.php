@@ -77,7 +77,7 @@
 
                 <div class="links">
 
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/l1rak/chatbot-app/tree/master/chatbotapp">GitHub</a>
                 </div>
             </div>
         </div>
